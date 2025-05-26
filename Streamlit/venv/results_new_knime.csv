@@ -1,0 +1,105 @@
+"ID","producto_name","producto_especificaciones","producto_vendido_por","producto_precio_descuento","producto_precio_con_oferta","producto_precio_sin_oferta","producto_promocion_blackdays","producto_referencias","producto_descuento","producto_tiempo_llegada","producto_envios_gratis","created_at","id"
+1,"TOUS","Perfume de Mujer Neoncandy 90 ml EDT","Por Falabella",149990,169990,389900,"Black Days","(23)","-62%","Llega mañana","No","2025-05-21T00:38:24.287941",1
+2,"TOMMY HILFIGER","Perfume Hombre 100 ml EDT","Por Falabella",149990,169990,244900,"Black Days","(536)","-39%","Llega mañana","No","2025-05-21T00:38:24.287941",2
+3,"LANCOME","Perfume Miracle Mujer 30 ml EDP","Por Falabella",179990,149900,420000,"Sin promocion","(166)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",3
+4,"TOMMY HILFIGER","Perfume Mujer Girl 100 ml EDT","Por Falabella",149990,169990,244900,"Black Days","(577)","-39%","Llega mañana","No","2025-05-21T00:38:24.287941",4
+5,"VERSACE","Perfume Eau Fraiche Pour Homme Hombre 100 ml EDT","Por Falabella",199990,204990,499990,"Black Days","(558)","-60%","Llega mañana","No","2025-05-21T00:38:24.287941",5
+6,"PAULINA VEGA","Perfume para Mujer 100 ml EDP","Por Falabella",109990,129990,189990,"Black Days","(235)","-42%","Llega mañana","No","2025-05-21T00:38:24.287941",6
+7,"CHANEL","BLEU DE Parfum","Por Falabella",179990,890000,420000,"Sin promocion","(8)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",20
+8,"MONTBLANC","Perfume Hombre Starwalker 75 ml EDT","Por Falabella",189990,209990,439900,"Black Days","(1070)","-57%","Llega mañana","No","2025-05-21T00:38:24.287941",7
+9,"LATTAFA","Perfume Yara 100ml","Por Amber Oud",175000,183000,339000,"Black Days","(904)","-48%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",8
+10,"LATTAFA","Perfume Khamrah 100ml","Por Amber Oud",179000,189000,450000,"Black Days","(184)","-60%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",9
+11,"MAISON ALHAMBRA","Perfume Delilah Pour Femme 100ml","Por Amber Oud",155700,173000,335000,"Black Days","(69)","-54%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",10
+12,"MOSCHINO","Perfume Toy 2 Mujer 100 ml EDP","Por Falabella",269900,309990,519990,"Black Days","(10)","-48%","Llega mañana","No","2025-05-21T00:38:24.287941",11
+13,"VERSACE","Perfume Eros Flame Hombre 200 ml EDP","Por Falabella",469990,554990,932990,"Black Days","(116)","-50%","Llega mañana","No","2025-05-21T00:38:24.287941",12
+14,"LATTAFA","Perfume Badee Al Oud Amethyst 100ml","Por Amber Oud",173700,193000,339000,"Black Days","(182)","-49%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",13
+15,"LANCOME","Perfume La Vie Est Belle Mujer 30 ml EDP","Por Falabella",179990,184990,249990,"Black Days","(828)","-26%","Llega mañana","No","2025-05-21T00:38:24.287941",14
+16,"LATTAFA","Perfume Eclaire 100ML","Por Amber Oud",188100,209000,420000,"Black Days","(12)","-55%","Desconocido","Envío gratis","2025-05-21T00:38:24.287941",15
+17,"ARMANI","Perfume Hombre Aqua Di Gio 200 ml EDT","Por Falabella",179990,529990,999990,"Sin promocion","(239)","-47%","Llega mañana","No","2025-05-21T00:38:24.287941",16
+18,"DOLCE&GABBANA","Set de Perfume Mujer Dolce & Gabbana Incluye:3 Productos","Por Falabella",179990,469990,420000,"Sin promocion","(0)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",17
+19,"LATTAFA","Perfume Asad 100ml","Por Amber Oud",170100,189000,330000,"Black Days","(83)","-48%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",18
+20,"CHANEL","CHANCE EAU SPLENDIDE EAU DE PARFUM","Por Falabella",179990,771000,420000,"Sin promocion","(0)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",19
+21,"LATTAFA","Perfume Badee Al Oud Sublime 100ml","Por Amber Oud",170100,189000,420000,"Black Days","(100)","-60%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",21
+22,"LATTAFA","Perfume Oud For Glory 100ml","Por Amber Oud",179000,186000,330000,"Black Days","(205)","-46%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",22
+23,"LATTAFA","Perfume Yara Candy 100ML + Body Spray Yara 200ML","Por Amber Oud",179100,199000,420000,"Black Days","(0)","-57%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",23
+24,"DIOR","Perfume Mujer Miss Dior EDP","Por Falabella",179990,764000,420000,"Sin promocion","(51)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",24
+25,"CHANEL","CHANCE EAU TENDRE Eau de Parfum","Por Falabella",179990,771000,420000,"Sin promocion","(110)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",25
+26,"LATTAFA","Perfume Yara Candy 100ML","Por Amber Oud",170100,189000,420000,"Black Days","(30)","-60%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",26
+27,"DIOR","Perfume Hombre Dior Sauvage 100 ml EDT","Por Falabella",179990,567000,420000,"Sin promocion","(142)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",34
+28,"CLINIQUE","Perfume hombre Happy for men 100 ml edt","Por Falabella",179990,161900,389990,"Black Days","(710)","-58%","Llega mañana","No","2025-05-21T00:38:24.287941",27
+29,"CAROLINA HERRERA","Perfume Mujer CH EDT 30 ml","Por Falabella",179990,179900,420000,"Sin promocion","(256)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",28
+30,"CLINIQUE","Perfume mujer Perfume Happy parfum spray 100 ml","Por Falabella",179990,169900,399990,"Black Days","(442)","-58%","Llega mañana","No","2025-05-21T00:38:24.287941",29
+31,"LATTAFA","Perfume Khamrah Qahwa 100ML","Por Amber Oud",170100,189000,450000,"Black Days","(34)","-62%","Desconocido","Envío gratis","2025-05-21T00:38:24.287941",30
+32,"LATTAFA","Perfume Yara 100ML + Body Spray 200ML","Por Amber Oud",200700,223000,450000,"Black Days","(16)","-55%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",31
+33,"CHANEL","BLEU DE Eau de Parfum","Por Falabella",179990,712000,420000,"Sin promocion","(10)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",32
+34,"LATTAFA","Perfume Fakhar Black 100ml","Por Amber Oud",170100,189000,360000,"Black Days","(18)","-53%","Desconocido","Envío gratis","2025-05-21T00:38:24.287941",33
+35,"LATTAFA","Perfume Badee Al Oud Noble Blush 100ml","Por Amber Oud",179100,199000,420000,"Black Days","(0)","-57%","Desconocido","Envío gratis","2025-05-21T00:38:24.287941",35
+36,"LATTAFA","Perfume Al Qiam Gold 100ml","Por Amber Oud",170100,189000,450000,"Black Days","(50)","-62%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",36
+37,"HUGO BOSS","Perfume Hombre Hugo Iced 75 ml EDT","Por Falabella",199990,219990,533900,"Sin promocion","(162)","-63%","Llega mañana","No","2025-05-21T00:38:24.287941",37
+38,"MOSCHINO","Perfume Gold Fresh Couture Mujer 100 ml EDP","Por Falabella",219900,239900,479900,"Black Days","(134)","-54%","Llega mañana","No","2025-05-21T00:38:24.287941",38
+39,"DIOR","Perfume Hombre Dior Sauvage Parfum","Por Falabella",179990,853000,420000,"Sin promocion","(24)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",39
+40,"CAROLINA HERRERA","Perfume 212 Vip Black Hombre 200 ml EDP","Por Falabella",659990,699990,1038000,"Black Days","(402)","-36%","Llega mañana","No","2025-05-21T00:38:24.287941",40
+41,"RABANNE","Perfume Hombre 1 Million 200ml EDT","Por Falabella",629990,659900,1060000,"Black Days","(1585)","-41%","Llega mañana","No","2025-05-21T00:38:24.287941",41
+42,"LATTAFA","Perfume Shaheen Gold 100ml","Por Amber Oud",170100,189000,450000,"Black Days","(62)","-62%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",42
+43,"FERRAGAMO","Perfume de Hombre F by 100 ml EDT","Por Falabella",179990,239990,469900,"Black Days","(0)","-49%","Llega mañana","No","2025-05-21T00:38:24.287941",43
+44,"LATTAFA","Perfume Asad Bourbon 100ML","Por Amber Oud",188100,209000,420000,"Black Days","(0)","-55%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",44
+45,"HUGO BOSS","Perfume The Scent Private Accord For Her Mujer 100 ml EDP","Por Falabella",179990,259990,677900,"Black Days","(5)","-62%","Llega mañana","No","2025-05-21T00:38:24.287941",45
+46,"DIOR","Perfume Hombre Dior Sauvage EDP","Por Falabella",179990,823000,420000,"Sin promocion","(289)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",46
+47,"CAROLINA HERRERA","Perfume Hombre 212 Men 100 Ml EDT","Por Falabella",179990,487000,420000,"Sin promocion","(587)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",71
+48,"MONTBLANC","Perfume Hombre STARWALKER EXTREME 75 ml EDT","Por Falabella",209900,239900,459900,"Black Days","(0)","-54%","Llega mañana","No","2025-05-21T00:38:24.287941",47
+49,"CALVIN KLEIN","Perfume Mujer Ck In2U For Her 100 Ml EDT","Por Falabella",179990,179900,289900,"Black Days","(456)","-38%","Llega mañana","No","2025-05-21T00:38:24.287941",48
+50,"LATTAFA","Perfume Yara Candy 100ML + Body Spray Yara 200ML","Por Amber Oud",179100,199000,420000,"Black Days","(0)","-57%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",49
+51,"CAROLINA HERRERA","Set de Perfume Mujer Perfume Good Girl EDP 80ml, loción Good Girl 100ml, Perfume Good Girl EDP 10ml","Por Falabella",179990,651000,420000,"Sin promocion","(0)","0%","Desconocido","No","2025-05-21T00:38:24.287941",50
+52,"LATTAFA","Perfume Mayar 100ml","Por Amber Oud",170100,189000,320000,"Black Days","(25)","-47%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",51
+53,"LACOSTE","Perfume Hombre 125 ml EDT","Por Falabella",259990,279990,449900,"Black Days","(23)","-42%","Llega mañana","No","2025-05-21T00:38:24.287941",52
+54,"LATTAFA","Perfume Khamrah 100ml + Body Spray 200ML","Por Amber Oud",200700,223000,460000,"Black Days","(0)","-56%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",53
+55,"CHANEL","CHANCE EAU FRAÎCHE EAU DE PARFUM 150 ML","Por Falabella",179990,771000,420000,"Sin promocion","(25)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",54
+56,"CAROLINA HERRERA","Set de Perfume Mujer Perfume 212 vip rosé EDP 80ml, loción corporal 100ml, perfume 212 vip rosé EDP 10ml","Por Falabella",179990,577000,420000,"Sin promocion","(0)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",55
+57,"ESTEE LAUDER","Perfume Pleasure Mujer 50 ml EDP","Por Falabella",179990,140900,319990,"Black Days","(32)","-56%","Llega mañana","No","2025-05-21T00:38:24.287941",56
+58,"CHANEL","COCO MADEMOISELLE Eau de Parfum","Por Falabella",179990,771000,420000,"Sin promocion","(8)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",57
+59,"ARMANI","Perfume Mujer Acqua Di Gioa 30 ml EDP","Por Falabella",179990,149990,420000,"Sin promocion","(262)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",58
+60,"ARMAF","Perfume Club De Nuit Intense Homme100ML EDT","Por Paris Success Sas",344100,382415,449900,"Black Days","(730)","-24%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",59
+61,"CAROLINA HERRERA","Perfume Hombre 212 NYC 200 ml EDT","Por Falabella",619990,649900,1084000,"Black Days","(422)","-43%","Llega mañana","No","2025-05-21T00:38:24.287941",60
+62,"LATTAFA","Perfume Emeer 100ML","Por Amber Oud",227700,253000,420000,"Black Days","(5)","-46%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",61
+63,"LATTAFA","Perfume Yara Moi 100ml","Por Amber Oud",164700,183000,350000,"Black Days","(32)","-53%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",62
+64,"LATTAFA","Perfume Yara 100ml + Yara 50ml + Yara Roll-On 10ml","Por Amber Oud",215100,239000,339000,"Black Days","(0)","-37%","Desconocido","Envío gratis","2025-05-21T00:38:24.287941",63
+65,"LATTAFA","Perfume Haya 100ml","Por Amber Oud",188100,209000,390000,"Black Days","(17)","-52%","Desconocido","Envío gratis","2025-05-21T00:38:24.287941",64
+66,"CAROLINA HERRERA","Set de Perfume Mujer Perfume 212 vip rosé EDP 80ml, loción corporal 100ml, perfume 212 vip rosé EDP 10ml","Por Falabella",179990,577000,420000,"Sin promocion","(0)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",65
+67,"LATTAFA","Perfume Afeef 100ML","Por Amber Oud",197100,219000,420000,"Black Days","(0)","-53%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",66
+68,"LATTAFA","Perfume Yara Tous 100ml","Por Amber Oud",164700,183000,360000,"Black Days","(43)","-54%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",67
+69,"LANCOME","Set La Vie est Belle Incluye: Perfume La Vie Est Belle 100 Ml, Perfume tamaño viajero 10 Ml, Lotion 50 Ml, Serum Genifique 10 Ml","Por Falabella",179990,734990,918900,"Black Days","(40)","-20%","Llega mañana","No","2025-05-21T00:38:24.287941",68
+70,"ESTEE LAUDER","Perfume Pleasure Mujer 100 ml EDP","Por Falabella",179990,195900,389990,"Black Days","(208)","-50%","Llega mañana","No","2025-05-21T00:38:24.287941",69
+71,"VERSACE","Perfume Blue Jeans EDT Hombre 75 ml","Por Falabella",124990,139990,254990,"Black Days","(454)","-51%","Llega mañana","No","2025-05-21T00:38:24.287941",70
+72,"JEAN PAUL GAULTIER","Perfume de Hombre Le Male Intense 200 ml EDP","Por Falabella",719900,769000,912000,"Black Days","(3645)","-21%","Llega mañana","No","2025-05-21T00:38:24.287941",72
+73,"DIOR","Perfume de Mujer - Miss Dior Parfum","Por Falabella",179990,799000,420000,"Sin promocion","(9)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",73
+74,"GUESS","Perfume de Mujer Seductive for Women 75 ml EDT","Por Falabella",179990,139990,259900,"Sin promocion","(0)","-46%","Llega mañana","No","2025-05-21T00:38:24.287941",74
+75,"CAROLINA HERRERA","Set de Perfume Mujer Perfume Good Girl EDP 80ml, loción Good Girl 100ml, Perfume Good Girl EDP 10ml","Por Falabella",179990,651000,420000,"Sin promocion","(0)","0%","Desconocido","No","2025-05-21T00:38:24.287941",75
+76,"LATTAFA","Perfume Fakhar Rose 100ml","Por Amber Oud",170100,189000,360000,"Black Days","(11)","-53%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",76
+77,"REYANE","Perfume R2b2 Interstellar 100ml spr edp Unisex","Por Paris Success Sas",210200,233665,274900,"Black Days","(0)","-24%","Desconocido","Envío gratis","2025-05-21T00:38:24.287941",77
+78,"ARIANA GRANDE","Perfume de Mujer Cloud 100 ml EDP","Por Falabella",179990,339990,420000,"Sin promocion","(242)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",85
+79,"LOMANI","Perfume Private Collection White Fusion EDP 100ML SPR","Por Paris Success Sas",382400,424915,499900,"Black Days","(2)","-24%","Desconocido","Envío gratis","2025-05-21T00:38:24.287941",78
+80,"CHANEL","N° 5 Eau de Parfum","Por Falabella",179990,949000,420000,"Sin promocion","(129)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",79
+81,"GUCCI","Perfume Rush Edt 75 ml","Por Falabella",179990,299990,559900,"Black Days","(51)","-46%","Llega mañana","No","2025-05-21T00:38:24.287941",80
+82,"LATTAFA","Perfume Al Noble Ameer 100ML","Por Amber Oud",170100,189000,450000,"Black Days","(11)","-62%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",81
+83,"DIOR","Perfume Mujer Miss Dior Blooming Bouquet EDT 100ml","Por Falabella",179990,626000,420000,"Sin promocion","(14)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",82
+84,"DIOR","Perfume Mujer Dior J'adore EDP","Por Falabella",179990,780900,420000,"Sin promocion","(16)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",83
+85,"CAROLINA HERRERA","Set de Perfume Mujer Perfume Good Girl Blush EDP 80ml, loción Good Girl 100ml, Perfume Good Girl Blush EDP 10ml","Por Falabella",179990,699000,420000,"Sin promocion","(0)","0%","Desconocido","No","2025-05-21T00:38:24.287941",84
+86,"LATTAFA","Perfume Ajwad 60ml","Por Amber Oud",164700,183000,350000,"Black Days","(24)","-53%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",86
+87,"LANCOME","Perfume Mujer LaVie Est Belle 150 ml EDP","Por Falabella",179990,619900,420000,"Sin promocion","(0)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",87
+88,"ESTEE LAUDER","Perfume Mujer Beautiful Magnolia 100 ml EDP","Por Falabella",179990,254900,629990,"Black Days","(26)","-60%","Llega mañana","No","2025-05-21T00:38:24.287941",88
+89,"LATTAFA","Perfume Victoria 100ML","Por Amber Oud",191700,213000,319000,"Black Days","(0)","-40%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",89
+90,"CALVIN KLEIN","Perfume Hombre Ck In2U For Him 100 Ml EDT","Por Falabella",179990,199990,289900,"Black Days","(283)","-38%","Llega mañana","No","2025-05-21T00:38:24.287941",90
+91,"HALLOWEEN","Perfume de Mujer My Wish EDP 100 ml","Por Falabella",179990,399900,420000,"Sin promocion","(1)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",91
+92,"ESTEE LAUDER","Perfume mujer Beautiful magnolia 100 ml edt","Por Falabella",179990,195900,549990,"Black Days","(3)","-64%","Llega mañana","No","2025-05-21T00:38:24.287941",92
+93,"DIESEL","Perfume Fuel For Life Promo Hombre 125 ml EDT","Por Falabella",199990,204990,409990,"Black Days","(241)","-51%","Llega mañana","No","2025-05-21T00:38:24.287941",93
+94,"DIOR","J'adore l'Or - Perfume con notas florales","Por Falabella",179990,1331000,420000,"Sin promocion","(13)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",94
+95,"DIOR","Perfume Hombre Dior Sauvage Elixir EDP","Por Falabella",179990,1445900,420000,"Sin promocion","(88)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",95
+96,"MAISON ALHAMBRA","Perfume Sceptre Malachite 100ML","Por Amber Oud",191700,213000,439000,"Black Days","(0)","-56%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",96
+97,"LANCOME","Set de perfume Mujer Incluye:3 Productos","Por Falabella",179990,495990,619900,"Black Days","(3)","-20%","Llega mañana","No","2025-05-21T00:38:24.287941",97
+98,"MOSSIMO","Perfume Mujer Fragancia By Daniela Ospina 100 Ml EDP","Por Falabella",109990,129990,189990,"Black Days","(196)","-42%","Desconocido","No","2025-05-21T00:38:24.287941",98
+99,"LATTAFA","Perfume Qaed Al Fursan 100ML","Por Amber Oud",164700,183000,335000,"Black Days","(13)","-51%","Llega mañana","Envío gratis","2025-05-21T00:38:24.287941",99
+100,"LATTAFA","Perfume Musamam White Intense","Por Amber Oud",200700,223000,420000,"Black Days","(0)","-52%","Desconocido","Envío gratis","2025-05-21T00:38:24.287941",100
+101,"CAROLINA HERRERA","Perfume Mujer Good Girl 50 ml EDP","Por Falabella",179990,481000,420000,"Sin promocion","(5555)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",101
+102,"ARIANA GRANDE","Perfume de Mujer Thank U Next 100 ml EDP","Por Falabella",179990,329990,420000,"Sin promocion","(0)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",102
+103,"DIOR","Perfume Mujer Dior J'adore EDP","Por Falabella",179990,780900,420000,"Sin promocion","(16)","0%","Llega mañana","No","2025-05-21T00:38:24.287941",103
+104,"ARMAF","Perfume Club De Nuit Untold 105ml edp Unisex","Por Paris Success Sas",520100,577915,679900,"Black Days","(0)","-24%","Desconocido","Envío gratis","2025-05-21T00:38:24.287941",104
